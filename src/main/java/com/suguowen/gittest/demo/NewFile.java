@@ -7,5 +7,6 @@ public class NewFile {
 
     public void test1(){
         System.out.println("create by bugfix001");
+        System.out.println("create by bugfix001");
     }
 }
